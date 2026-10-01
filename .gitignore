@@ -1,0 +1,8 @@
+.env
+assetmind.db
+uploads/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
