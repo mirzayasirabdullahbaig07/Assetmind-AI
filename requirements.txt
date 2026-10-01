@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+groq
+python-dotenv
+qrcode
+pillow
+opencv-python-headless
+reportlab
